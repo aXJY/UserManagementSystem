@@ -1,8 +1,9 @@
 <template>
   <div class="customers container">
     <Alert :message="alert" v-if="alert"></Alert>
+    <h1 page-header>用户管理系统</h1><br>
     <input type="text" class="form-control" v-model="searchKeywords" placeholder="搜索">
-    <h1 page-header>用户管理系统</h1>
+    <br>
     <table class="table table-striped">
       <thead>
         <tr>
@@ -56,7 +57,7 @@ export default {
     this.fetchCustomers()
   },
   updated () {
-    this.fetchCustomers()
+    // this.fetchCustomers()
   },
   components:{
     Alert

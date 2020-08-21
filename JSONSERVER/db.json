@@ -1,14 +1,6 @@
 {
   "users": [
     {
-      "name": "谢洁怡",
-      "phone": "17688423507",
-      "email": "1075862026@qq.com",
-      "id": 1,
-      "age": 23,
-      "companyId": 1
-    },
-    {
       "name": "谢大脚",
       "phone": "17756189185",
       "email": "siqi@gmail.com",
@@ -39,10 +31,24 @@
       "id": 6
     },
     {
-      "name": "谢大手",
-      "phone": "154545",
-      "email": "24151",
+      "name": "Henry",
+      "phone": "0668-26462498",
+      "email": "Henry@qq.com",
+      "educational": "本科",
+      "graduationschool": "广州市广播电视大学",
+      "professional": "web前端开发工程师",
+      "profession": "大家好！！！！",
       "id": 7
+    },
+    {
+      "name": "谢洁怡",
+      "phone": "17688423507",
+      "email": "1075862026@qq.com",
+      "educational": "大专",
+      "graduationschool": "广州市广播电视大学",
+      "professional": "程序员",
+      "profession": "大家好！！！！",
+      "id": 8
     }
   ],
   "companies": [

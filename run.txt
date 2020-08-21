@@ -1,0 +1,7 @@
+1、配置 json-server 
+    进入JSONSERVER   $ npm install
+    运行json-server    $ npm run json:server
+2、启动vue项目
+    进入vcustomers   $ npm install
+    启动  $ npm run dev
+    localhost:8080
