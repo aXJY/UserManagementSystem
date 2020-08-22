@@ -11,27 +11,27 @@ vue-UserManagementSystem是一个用户管理系统，可以实现路由跳转�
 
 # 安装
 
-进入项目目录
+*进入项目目录
 
 cd UserManagementSystem-master/JSONSERVER
 
-安装依赖
+*安装依赖
 
 $ npm install
 
-启动json-server
+*启动json-server
 
 $ npm run json:server
 
 
-再次进入项目目录
+*再次进入项目目录
 
 cd UserManagementSystem-master/vcustomers
 
-安装依赖
+*安装依赖
 
 $ npm install
 
-启动服务
+*启动服务
 
 $ npm run dev
