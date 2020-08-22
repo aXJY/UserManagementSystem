@@ -17,11 +17,11 @@ cd UserManagementSystem-master/JSONSERVER
 
 *安装依赖
 
-$ npm install
+$  npm install
 
 *启动json-server
 
-$ npm run json:server
+$  npm run json:server
 
 
 *再次进入项目目录
@@ -30,7 +30,7 @@ cd UserManagementSystem-master/vcustomers
 
 *安装依赖
 
-$ npm install
+$  npm install
 
 *启动服务
 
